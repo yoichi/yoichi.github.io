@@ -37,3 +37,84 @@
 * 2021.03.22 [Zenn:duとwcの違い](https://zenn.dev/yoichi/articles/difference-between-du-and-wc)
 * 2021.03.07 [Zenn:cronのコマンド記法を理解する](https://zenn.dev/yoichi/articles/understanding-cron-command-expression)
 * 2021.02.21 [Zenn:BashでUDP送信に失敗していた](https://zenn.dev/yoichi/articles/bash-udp-transmission-failed)
+
+## 2020
+
+* 2020.06.28 [Qiita:ghqで対応しているVCSのソースを取得する](https://qiita.com/yoichi22/items/6c1a749c107579b7a9a7)
+* 2020.06.23 [Qiita:Gitで上流ブランチを取得する第3の方法](https://qiita.com/yoichi22/items/242fa2383a3efeced8ea)
+* 2020.06.14 [Qiita:シェルがコマンドを見つけるまで](https://qiita.com/yoichi22/items/be29ac9f96a2390851c4)
+* 2020.05.31 [Qiita:そのファイル、消せますか？](https://qiita.com/yoichi22/items/f5508fdcd4e48be50eb9)
+* 2020.05.17 [Qiita:git stashで何を保存するかのオプション](https://qiita.com/yoichi22/items/ee1801d0c274ffe781e3)
+* 2020.05.01 [Qiita:Gitマージのコンフリクト解消をリプレイする](https://qiita.com/yoichi22/items/948a131cbc535d9dafa4)
+* 2020.04.11 [Qiita:EmacsのM-x grepでThe Platinum Searcherを使う](https://qiita.com/yoichi22/items/054960251a0a7e1b09b3)
+
+## 2019
+
+* 2019.12.21 [Qiita:Pythonのunittestを並列実行する](https://qiita.com/yoichi22/items/433f1af4b178c5602970)
+* 2019.11.04 [Qiita:Python VMのプロファイル](https://qiita.com/yoichi22/items/8eb876264456d1898206)
+* 2019.10.30 [Qiita:トップレベルのループと関数内のループの違い](https://qiita.com/yoichi22/items/43859273e95fd2991921)
+* 2019.09.29 [Qiita:Gitのコミット日時を上書きする２つの方法](https://qiita.com/yoichi22/items/b25d223b639621b834cb)
+* 2019.09.15 [Qiita:itertools.tee は57個ずつキャッシュする](https://qiita.com/yoichi22/items/27a5be8087ac4c108193)
+* 2019.08.26 [Qiita:ファイル単位でflake8の警告を制御する](https://qiita.com/yoichi22/items/394a18826423ea8cebcf)
+* 2019.04.09 [Qiita:itertools.groupby ご利用上の注意](https://qiita.com/yoichi22/items/4a67687ad3a4af63f2d9)
+* 2019.03.31 [Qiita:テストで使うサーバが立ち上がるのを待つ方法](https://qiita.com/yoichi22/items/b16b6ad78cd40463e7f1)
+* 2019.03.15 [Qiita:SQLにおいてISは二項演算子ではない](https://qiita.com/yoichi22/items/f352ac2abbbcda43c650)
+* 2019.03.03 [Qiita:GitHubで refs から辿れなくなったコミットは消えているのか](https://qiita.com/yoichi22/items/d318d31201d3634fb172)
+* 2019.02.27 [Qiita:Mac で git send-email して Net/SMTP/SSL.pm がないと言われたら](https://qiita.com/yoichi22/items/8f89be4ad7f3e981de3a)
+* 2019.02.23 [Qiita:git checkout - でブランチ間を行ったり来たりする](https://qiita.com/yoichi22/items/77ba123fd80fe1c9f910)
+* 2019.02.16 [Qiita:Gitは知ってるけどSubversion知らない人向けにSubversionがどう履歴管理してるかをちょっと見る](https://qiita.com/yoichi22/items/21f50e722e8f0969091d)
+* 2019.01.01 [Qiita:Pythonオブジェクトのどのメソッドが呼ばれてるか見る](https://qiita.com/yoichi22/items/f2eb76024fa28b3e7626)
+
+## 2018
+
+* 2018.11.26 [Qiita:HTTPによるコンテンツ取得](https://qiita.com/yoichi22/items/db352c8d8bce81f44dce)
+* 2018.08.11 [Qiita:ファイル末尾の改行有無を判定するには](https://qiita.com/yoichi22/items/cb663c152c3b6dfa7bbe)
+* 2018.08.05 [Qiita:Jenkinsから起動したpythonのDockerコンテナ内でpip installする](https://qiita.com/yoichi22/items/655d56045a8a8950045e)
+* 2018.07.11 [Qiita:マージコミットをrevertした後の再適用](https://qiita.com/yoichi22/items/9b7e5d5758ca45b4514e)
+* 2018.03.24 [Qiita:WSGIアプリケーションの事後検証デバッグ](https://qiita.com/yoichi22/items/88952907a8aa8844ab05)
+* 2018.02.02 [Qiita:インポート元モジュールのパスを取得する](https://qiita.com/yoichi22/items/3d6606912659d9fd7d52)
+
+## 2017
+
+* 2017.12.22 [Qiita:オプション引数ありデコレータの括弧を省略可能にする](https://qiita.com/yoichi22/items/61d82787cba4886c4e4d)
+* 2017.12.16 [Qiita:wrapt を使ってラッパーを書く](https://qiita.com/yoichi22/items/df42d1f038ff2423e37b)
+* 2017.09.14 [Qiita:Gitでソースを消す方法](https://qiita.com/yoichi22/items/71272835ebc3d1b57241)
+* 2017.08.20 [Qiita:CVE-2017-1000117 とその修正について](https://qiita.com/yoichi22/items/fb434842fa5b684aebf3)
+* 2017.08.13 [Qiita:キーバインド設定の書き方](https://qiita.com/yoichi22/items/547fbc9a35dd13429269)
+* 2017.08.11 [Qiita:リポジトリの最初の作業をプルリクエストにする](https://qiita.com/yoichi22/items/6a933ab66c8f6c08e0c4)
+* 2017.08.03 [Qiita:モックとスタブに触れてみる](https://qiita.com/yoichi22/items/c8db73ba3ca48f1a0da1)
+* 2017.06.10 [Qiita:subprocess で shell=True でリストを与えたときの挙動](https://qiita.com/yoichi22/items/5afa8b3b39c723acb359)
+* 2017.04.23 [Qiita:pull request, issue の雛形](https://qiita.com/yoichi22/items/1116d338e29b38d2de8e)
+* 2017.04.14 [Qiita:断絶された履歴を繋ぐ](https://qiita.com/yoichi22/items/676efe1f5e33db542397)
+* 2017.03.18 [Qiita:GitのオブジェクトID衝突時の挙動](https://qiita.com/yoichi22/items/dfd168577910c9b45d0c)
+* 2017.01.14 [Qiita:等しいものと等しくないものが全てではない](https://qiita.com/yoichi22/items/76c6a58efd616af49281)
+
+## 2016
+
+* 2016.12.23 [Qiita:MySQL-python でパラメータの自動エスケープ](https://qiita.com/yoichi22/items/56cc3d8e243e137a254c)
+* 2016.11.26 [Qiita:親を3つ以上持つコミット](https://qiita.com/yoichi22/items/54588f12f85e45a4c7dd)
+* 2016.11.21 [Qiita:高階関数とデコレータ](https://qiita.com/yoichi22/items/35c692e8af805411927b)
+* 2016.10.17 [Qiita:ddskk で絵文字を入力する](https://qiita.com/yoichi22/items/2f79af124e50101be367)
+* 2016.09.20 [Qiita:文字コードの話](https://qiita.com/yoichi22/items/03198925275d072b7d3f)
+* 2016.08.15 [Qiita:選択的にテストを実行する](https://qiita.com/yoichi22/items/8ce3de33992a5fea9b66)
+* 2016.06.22 [Qiita:magitの差分表示で行内の違いを色付けする](https://qiita.com/yoichi22/items/2e85090422b0c001a9bb)
+* 2016.06.21 [Qiita:最適化入門](https://qiita.com/yoichi22/items/9616f3504d8f7f4fad2a)
+* 2016.06.18 [Qiita:クラスのメソッド内でプロファイルをする](https://qiita.com/yoichi22/items/e4fe74e5b9afa47b0887)
+* 2016.06.02 [Qiita:flycheck で flake8 を実行する時にオプションを指定する](https://qiita.com/yoichi22/items/1d73a078bc311de7dfbb)
+* 2016.02.04 [Qiita:requests で ujson を使う](https://qiita.com/yoichi22/items/935486a8508104c39c9f)
+* 2016.01.24 [Qiita:キーワード引数の引き回し](https://qiita.com/yoichi22/items/e9e8b7fa8704c3dfd000)
+* 2016.01.23 [Qiita:あるディレクトリ以下の unittest を全部実行させる](https://qiita.com/yoichi22/items/2b488dc0696d9b45fad6)
+* 2016.01.09 [Qiita:git worktreeを使ってみる](https://qiita.com/yoichi22/items/8f92110f24690ca8966f)
+
+## 2015
+
+* 2015.12.23 [Qiita:Git入門(3) indexから見るマージ](https://qiita.com/yoichi22/items/ce1663942d16e2ac83c2)
+* 2015.12.20 [Qiita:こっそりブランチを使う](https://qiita.com/yoichi22/items/e7108c459664275896d0)
+* 2015.11.29 [Qiita:Git入門(2) 怖くないリセット](https://qiita.com/yoichi22/items/b58ea6d4058d9425c04b)
+* 2015.11.18 [Qiita:Git入門(1) 履歴の格納](https://qiita.com/yoichi22/items/3f165abd83de623c21d2)
+* 2015.11.03 [Qiita:変数のスコープ](https://qiita.com/yoichi22/items/8ae2ca180407a5ad5a6d)
+* 2015.10.31 [Qiita:-*- coding: ... -*- と矛盾したファイルのエンコーディングを直す](https://qiita.com/yoichi22/items/b0bedea70d44d2ffa98c)
+* 2015.10.24 [Qiita:Python の小数](https://qiita.com/yoichi22/items/67e319c1c1ccbed8896c)
+* 2015.10.03 [Qiita:Python における hashable](https://qiita.com/yoichi22/items/ebf6ab3c6de26ddcc09a)
+* 2015.09.24 [Qiita:Python のソースを読んでみる](https://qiita.com/yoichi22/items/3ee2920304713d31a8ef)
+* 2015.09.07 [Qiita:Python の for ループについて](https://qiita.com/yoichi22/items/029fa6cd46c3cc4bc9cf)
