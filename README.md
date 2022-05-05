@@ -9,12 +9,14 @@
 * [Blog](https://yoichi22.hatenablog.com)
 * [Qiita](https://qiita.com/yoichi22)
 * [Zenn](https://zenn.dev/yoichi)
+* [SpeakerDeck](https://speakerdeck.com/yoichi)
 
 ## Articles
 
 ### 2022
 
 * 2022.04.29 [Blog:焦らず時間を掛けて、サポートしたい](https://yoichi22.hatenablog.com/entry/2022/04/29/123224)
+* 2022.04.21 [SpeakerDeck:小さなOSS貢献の実践例](https://speakerdeck.com/yoichi/a-practical-example-of-a-small-contribution-to-oss)
 * 2022.04.11 [Blog:「自分ごとと考えないで」と言って驚かせていた](https://yoichi22.hatenablog.com/entry/2022/04/11/084623)
 * 2022.02.08 [MonotaRO Tech Blog:Software Design連載 2022年1月号 運用監視の解像度アップとサービス横断的なログ基盤の整備](https://tech-blog.monotaro.com/entry/2022/02/08/090000) (共著)
 * 2022.02.02 [Blog:46歳になりました](https://yoichi22.hatenablog.com/entry/2022/02/02/082550)
@@ -59,6 +61,7 @@
 * 2020.12.05 [Blog:みんなの「わがまま」入門を読んで、わがままの受け止め方を考え直した](https://yoichi22.hatenablog.com/entry/2020/12/05/080910)
 * 2020.11.30 [Blog:最高のチームに変わる「仕組み」のつくり方](https://yoichi22.hatenablog.com/entry/2020/11/30/223957)
 * 2020.11.22 [Blog:自衛隊メンタル教官が教える折れないリーダーの仕事](https://yoichi22.hatenablog.com/entry/2020/11/22/141726)
+* 2020.09.08 [SpeakerDeck:ターミナル出力の色付け](https://speakerdeck.com/yoichi/terminal-output-coloring)
 * 2020.08.11 [Blog:Dockerコンテナ内からターミナルを識別する](https://yoichi22.hatenablog.com/entry/2020/08/11/140133)
 * 2020.07.12 [Blog:macOS標準ターミナルでlongcatが出るまで](https://yoichi22.hatenablog.com/entry/2020/07/12/110838)
 * 2020.06.28 [Qiita:ghqで対応しているVCSのソースを取得する](https://qiita.com/yoichi22/items/6c1a749c107579b7a9a7)
@@ -80,6 +83,7 @@
 ## 2019
 
 * 2019.12.29 [Blog:猫とUNIXパイプが繋いでくれたもの](https://yoichi22.hatenablog.com/entry/2019/12/29/183632)
+* 2019.12.27 [SpeakerDeck:パイプの話](https://speakerdeck.com/yoichi/on-pipe)
 * 2019.12.21 [Qiita:Pythonのunittestを並列実行する](https://qiita.com/yoichi22/items/433f1af4b178c5602970)
 * 2019.12.08 [Blog:OSS Gateのサポーターがやっていること](https://yoichi22.hatenablog.com/entry/2019/12/08/100621)
 * 2019.11.04 [Qiita:Python VMのプロファイル](https://qiita.com/yoichi22/items/8eb876264456d1898206)
@@ -88,6 +92,7 @@
 * 2019.10.30 [Qiita:トップレベルのループと関数内のループの違い](https://qiita.com/yoichi22/items/43859273e95fd2991921)
 * 2019.09.29 [Qiita:Gitのコミット日時を上書きする２つの方法](https://qiita.com/yoichi22/items/b25d223b639621b834cb)
 * 2019.09.29 [Blog:longcatを伸ばしすぎて可愛くない絵が出た](https://yoichi22.hatenablog.com/entry/2019/09/29/131002)
+* 2019.09.26 [SpeakerDeck:バイナリリーディング](https://speakerdeck.com/yoichi/binary-reading)
 * 2019.09.21 [Blog:ザッソウの話を聞いてきた](https://yoichi22.hatenablog.com/entry/2019/09/21/125644)
 * 2019.09.15 [Qiita:itertools.tee は57個ずつキャッシュする](https://qiita.com/yoichi22/items/27a5be8087ac4c108193)
 * 2019.09.01 [Blog:「現場で役立つ1on1の原則」に参加した](https://yoichi22.hatenablog.com/entry/2019/09/01/084100)
@@ -126,6 +131,7 @@
 * 2018.10.30 [MonotaRO Tech Blog:引き算したらバッチが死んでいた話](https://tech-blog.monotaro.com/entry/2018/10/30/120000)
 * 2018.10.19 [MonotaRO Tech Blog:アウトプットファースト受け入れ](https://tech-blog.monotaro.com/entry/2018/10/19/170000)
 * 2018.08.28 [Blog:OSS開発を楽しく続けてきた話を喋ってきた](https://yoichi22.hatenablog.com/entry/2018/08/28/064124)
+* 2018.08.27 [SpeakerDeck:OSS開発を楽しく続けてきた話](https://speakerdeck.com/yoichi/osskai-fa-wole-sikusok-ketekitahua)
 * 2018.08.27 [Blog:越境しようとしている者達の話](https://yoichi22.hatenablog.com/entry/2018/08/27/072038)
 * 2018.08.11 [Qiita:ファイル末尾の改行有無を判定するには](https://qiita.com/yoichi22/items/cb663c152c3b6dfa7bbe)
 * 2018.08.05 [Qiita:Jenkinsから起動したpythonのDockerコンテナ内でpip installする](https://qiita.com/yoichi22/items/655d56045a8a8950045e)
