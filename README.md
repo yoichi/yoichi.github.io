@@ -15,6 +15,8 @@
 
 ### 2022
 
+* 2022.07.03 [Blog:チームの協調を増やすYWTふりかえりの拡張](https://yoichi22.hatenablog.com/archive/2022/07/03)
+* 2022.06.20 [Blog:「読ませない」文章の書き方を学べる「書く技術・伝える技術」](https://yoichi22.hatenablog.com/archive/2022/06/20)
 * 2022.04.29 [Blog:焦らず時間を掛けて、サポートしたい](https://yoichi22.hatenablog.com/entry/2022/04/29/123224)
 * 2022.04.21 [SpeakerDeck:小さなOSS貢献の実践例](https://speakerdeck.com/yoichi/a-practical-example-of-a-small-contribution-to-oss)
 * 2022.04.11 [Blog:「自分ごとと考えないで」と言って驚かせていた](https://yoichi22.hatenablog.com/entry/2022/04/11/084623)
@@ -190,6 +192,7 @@
 * 2016.06.21 [Qiita:最適化入門](https://qiita.com/yoichi22/items/9616f3504d8f7f4fad2a)
 * 2016.06.18 [Qiita:クラスのメソッド内でプロファイルをする](https://qiita.com/yoichi22/items/e4fe74e5b9afa47b0887)
 * 2016.06.02 [Qiita:flycheck で flake8 を実行する時にオプションを指定する](https://qiita.com/yoichi22/items/1d73a078bc311de7dfbb)
+* 2016.04.22 [SlideShare:モノタロウの商品データ連携について](https://www.slideshare.net/monotaro-itd-pr/ss-61399350)
 * 2016.02.04 [Qiita:requests で ujson を使う](https://qiita.com/yoichi22/items/935486a8508104c39c9f)
 * 2016.01.24 [Qiita:キーワード引数の引き回し](https://qiita.com/yoichi22/items/e9e8b7fa8704c3dfd000)
 * 2016.01.23 [Qiita:あるディレクトリ以下の unittest を全部実行させる](https://qiita.com/yoichi22/items/2b488dc0696d9b45fad6)
