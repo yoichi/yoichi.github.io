@@ -15,6 +15,7 @@
 
 ### 2022
 
+* 2022.07.17 [Blog:Gitで管理されたファイルの更新時刻の２つの定義](https://yoichi22.hatenablog.com/entry/2022/07/17/223055)
 * 2022.07.03 [Blog:チームの協調を増やすYWTふりかえりの拡張](https://yoichi22.hatenablog.com/archive/2022/07/03)
 * 2022.06.20 [Blog:「読ませない」文章の書き方を学べる「書く技術・伝える技術」](https://yoichi22.hatenablog.com/archive/2022/06/20)
 * 2022.04.29 [Blog:焦らず時間を掛けて、サポートしたい](https://yoichi22.hatenablog.com/entry/2022/04/29/123224)
