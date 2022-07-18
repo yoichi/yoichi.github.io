@@ -31,7 +31,7 @@
 
 * 2021.12.31 [Blog:2021年のふりかえり](https://yoichi22.hatenablog.com/entry/2021/12/31/083000)
 * 2021.12.27 [Zenn:Windows10で画面領域切り取りをコマンドプロンプトから起動する](https://zenn.dev/yoichi/articles/launch-screenclip)
-* 2021.11.21 [Zenn:削除したブランチを復活させるサブコマンドを書いた](https://zenn.dev/yoichi/articles/git-restore-branch)
+* 2021.11.21 [Zenn:削除したブランチを復活させるGitサブコマンドを書いた](https://zenn.dev/yoichi/articles/git-restore-branch)
 * 2021.11.15 [Zenn:git reflogを日時で参照する](https://zenn.dev/yoichi/articles/git-refer-reflog-by-datetime)
 * 2021.11.14 [Zenn:Linuxでsleep(1)に大きな値を指定すると24日ずつnanosleep(3)する](https://zenn.dev/yoichi/articles/sleep-infinity-and-nanosleep)
 * 2021.10.24 [Zenn:ファイルを指定したリビジョンにする](https://zenn.dev/yoichi/articles/git-update-file-to-specified-revision)
