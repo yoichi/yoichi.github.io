@@ -15,6 +15,10 @@
 
 ### 2022
 
+* 2022.12.21 [Blog:「聞く技術 聞いてもらう技術」を読んだ](https://yoichi22.hatenablog.com/entry/2022/12/21/114921)
+* 2022.12.18 [Blog:ヨシタケシンスケ展に行ってきた](https://yoichi22.hatenablog.com/entry/2022/12/18/122148)
+* 2022.10.29 [Blog:ローコンテクストなコミュニケーションは共につくる](https://yoichi22.hatenablog.com/entry/2022/10/29/114037)
+* 2022.10.25 [Blog:「LISTEN ー 知性豊かで創造力がある人になれる」を読んだ](https://yoichi22.hatenablog.com/entry/2022/10/25/085437)
 * 2022.08.31 [MonotaRO Tech Blog:緩やかな自己開示による継続的チームビルディング](https://tech-blog.monotaro.com/entry/2022/08/31/093000)
 * 2022.07.31 [Zenn:autocrlf変更後のGit作業ツリー](https://zenn.dev/yoichi/articles/git-working-tree-after-autocrlf-change)
 * 2022.07.18 [Zenn:削除したファイルを復活させるGitサブコマンドを書いた](https://zenn.dev/yoichi/articles/git-unrm-subcommand)
