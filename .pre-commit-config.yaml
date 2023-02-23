@@ -11,5 +11,5 @@ repos:
 -   repo: https://github.com/markdownlint/markdownlint
     rev: master
     hooks:
-    -   id: markdownlint_docker
+    -   id: markdownlint
         args: [-r, ~MD013]
