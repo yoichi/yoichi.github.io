@@ -13,8 +13,15 @@
 
 ## Articles
 
+### 2023
+
+* 2023.02.13 [Blog:会社のLT会でgit-jumpを紹介した](https://yoichi22.hatenablog.com/entry/2023/02/13/200537)
+* 2023.02.13 [SpeakerDeck:git-jumpを解放する](https://speakerdeck.com/yoichi/loosen-editor-dependency-of-git-jump)
+
 ### 2022
 
+* 2022.12.31 [Blog:「私たちはどう学んでいるのか」を読んで思ったこと](https://yoichi22.hatenablog.com/entry/2022/12/31/092937)
+* 2022.12.29 [Blog:2022年のふりかえり](https://yoichi22.hatenablog.com/entry/2022/12/29/115943)
 * 2022.12.21 [Blog:「聞く技術 聞いてもらう技術」を読んだ](https://yoichi22.hatenablog.com/entry/2022/12/21/114921)
 * 2022.12.18 [Blog:ヨシタケシンスケ展に行ってきた](https://yoichi22.hatenablog.com/entry/2022/12/18/122148)
 * 2022.10.29 [Blog:ローコンテクストなコミュニケーションは共につくる](https://yoichi22.hatenablog.com/entry/2022/10/29/114037)
