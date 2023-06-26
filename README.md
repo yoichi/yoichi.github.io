@@ -15,6 +15,8 @@
 
 ### 2023
 
+* 2023.06.25 [Zenn:git commit -aは一時的なインデックスファイルを作る](https://zenn.dev/yoichi/articles/git-temporary-index)
+* 2023.06.24 [Blog:対話を効果的にするには、まず自身に目を向ける](https://yoichi22.hatenablog.com/entry/2023/06/24/174922)
 * 2023.02.13 [Blog:会社のLT会でgit-jumpを紹介した](https://yoichi22.hatenablog.com/entry/2023/02/13/200537)
 * 2023.02.13 [SpeakerDeck:git-jumpを解放する](https://speakerdeck.com/yoichi/loosen-editor-dependency-of-git-jump)
 
