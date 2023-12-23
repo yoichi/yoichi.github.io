@@ -15,6 +15,9 @@
 
 ### 2023
 
+* 2023.11.05 [Blog:「高校数学の基礎が150分でわかる本」で学び直した](https://yoichi22.hatenablog.com/entry/2023/11/05/214319)
+* 2023.11.01 [Blog:吉祥寺.pm34【オンライン】に参加した](https://yoichi22.hatenablog.com/entry/2023/11/01/190632)
+* 2023.07.17 [Blog:「観察力の鍛え方」を読みつつ思ったこと](https://yoichi22.hatenablog.com/entry/2023/07/17/224953)
 * 2023.06.25 [Zenn:git commit -aは一時的なインデックスファイルを作る](https://zenn.dev/yoichi/articles/git-temporary-index)
 * 2023.06.24 [Blog:対話を効果的にするには、まず自身に目を向ける](https://yoichi22.hatenablog.com/entry/2023/06/24/174922)
 * 2023.02.13 [Blog:会社のLT会でgit-jumpを紹介した](https://yoichi22.hatenablog.com/entry/2023/02/13/200537)
