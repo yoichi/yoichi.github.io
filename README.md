@@ -15,6 +15,9 @@
 
 ### 2023
 
+* 2023.12.24 [Zenn:git revertで特定リビジョンまで戻す](https://zenn.dev/yoichi/articles/git-revert-to-specific-revision)
+* 2023.12.24 [Blog:タミフルを飲んでいる](https://yoichi22.hatenablog.com/entry/2023/12/24/071049)
+* 2023.12.17 [一貫性と視点](https://sizu.me/yoichi22/posts/co1us8u6z18a)
 * 2023.11.05 [Blog:「高校数学の基礎が150分でわかる本」で学び直した](https://yoichi22.hatenablog.com/entry/2023/11/05/214319)
 * 2023.11.01 [Blog:吉祥寺.pm34【オンライン】に参加した](https://yoichi22.hatenablog.com/entry/2023/11/01/190632)
 * 2023.07.17 [Blog:「観察力の鍛え方」を読みつつ思ったこと](https://yoichi22.hatenablog.com/entry/2023/07/17/224953)
