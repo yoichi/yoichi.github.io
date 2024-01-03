@@ -13,8 +13,16 @@
 
 ## Articles
 
+### 2024
+
+* 2024.01.03 [伝えることを絞る効能](https://sizu.me/yoichi22/posts/ovc6mxx7ni7b)
+
 ### 2023
 
+* 2023.12.31 [Blog:今年行ったところ](https://yoichi22.hatenablog.com/entry/2023/12/31/230720)
+* 2023.12.31 [Blog:「世界一流エンジニアの思考法」を読んで](https://yoichi22.hatenablog.com/entry/2023/12/31/180833)
+* 2023.12.27 [強みを探す5つの質問](https://sizu.me/yoichi22/posts/i5i532aobw4i)
+* 2023.12.26 [Blog:「税金で買った本」を読んだ](https://yoichi22.hatenablog.com/entry/2023/12/26/080336)
 * 2023.12.24 [Zenn:git revertで特定リビジョンまで戻す](https://zenn.dev/yoichi/articles/git-revert-to-specific-revision)
 * 2023.12.24 [Blog:タミフルを飲んでいる](https://yoichi22.hatenablog.com/entry/2023/12/24/071049)
 * 2023.12.17 [一貫性と視点](https://sizu.me/yoichi22/posts/co1us8u6z18a)
