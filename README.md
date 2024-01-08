@@ -15,6 +15,7 @@
 
 ### 2024
 
+* 2024.01.08 [Blog:「経営者の条件」を読んだ](https://yoichi22.hatenablog.com/entry/2024/01/08/195440)
 * 2024.01.03 [伝えることを絞る効能](https://sizu.me/yoichi22/posts/ovc6mxx7ni7b)
 
 ### 2023
