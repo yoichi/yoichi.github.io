@@ -15,6 +15,12 @@
 
 ### 2024
 
+* 2024.02.13 [Blog:meishi2でキーボード自作に入門した](https://yoichi22.hatenablog.com/entry/2024/02/13/225027)
+* 2024.02.10 [Zenn:makeでdry runする](https://zenn.dev/yoichi/articles/make-dry-run)
+* 2024.02.10 [Blog:通り道に物を置く](https://yoichi22.hatenablog.com/entry/2024/02/10/102252)
+* 2024.02.10 [Zenn:git subtreeの仕組み](https://zenn.dev/yoichi/articles/git-subtree-internals)
+* 2024.01.15 [Blog:「フィードバックの誤謬」を読んだ](https://yoichi22.hatenablog.com/entry/2024/01/15/073537)
+* 2024.01.13 [Blog:Regional Scrum Gathering Tokyo 2024に参加しました](https://yoichi22.hatenablog.com/entry/2024/01/13/165330)
 * 2024.01.08 [Blog:「経営者の条件」を読んだ](https://yoichi22.hatenablog.com/entry/2024/01/08/195440)
 * 2024.01.03 [伝えることを絞る効能](https://sizu.me/yoichi22/posts/ovc6mxx7ni7b)
 
