@@ -4,11 +4,12 @@
 
 ![rubberduck](rubberduck.jpg)
 
+* [Bluesky](https://bsky.app/profile/yoichi22.bsky.social)
 * [Twitter](https://twitter.com/yoichi22)
 * [GitHub](https://github.com/yoichi)
 * [Blog](https://yoichi22.hatenablog.com)
-* [Qiita](https://qiita.com/yoichi22)
 * [Zenn](https://zenn.dev/yoichi)
+* [Qiita](https://qiita.com/yoichi22)
 * [SpeakerDeck](https://speakerdeck.com/yoichi)
 
 ## Articles
