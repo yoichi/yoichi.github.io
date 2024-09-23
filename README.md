@@ -16,7 +16,7 @@
 
 ### 2024
 
-* 2024.09.23 [Keyball61とKeyball44を組んで学んだこと(HW編)](https://yoichi22.hatenablog.com/entry/2024/09/23/162958)
+* 2024.09.23 [Blog:Keyball61とKeyball44を組んで学んだこと(HW編)](https://yoichi22.hatenablog.com/entry/2024/09/23/162958)
 * 2024.06.30 [問題切り分けの止めどき](https://sizu.me/yoichi22/posts/xn5w3szz3kkh)
 * 2024.06.09 [質問と背景とリンク](https://sizu.me/yoichi22/posts/zr9zaa2nena5)
 * 2024.03.29 [Blog:「岩田さん」を読んだ](https://yoichi22.hatenablog.com/entry/2024/03/29/062356)
