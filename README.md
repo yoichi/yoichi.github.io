@@ -16,7 +16,7 @@
 
 ### 2024
 
-* 2024.10.06 [Zenn:Tap Hold設定したキーでTap対象を長押しする](https://zenn.dev/yoichi/articles/qmk-quick-tap-term)
+* 2024.10.06 [Zenn:QMKのTap Hold設定したキーでTap対象を長押しする](https://zenn.dev/yoichi/articles/qmk-quick-tap-term)
 * 2024.09.23 [Blog:Keyball61とKeyball44を組んで学んだこと(HW編)](https://yoichi22.hatenablog.com/entry/2024/09/23/162958)
 * 2024.06.30 [問題切り分けの止めどき](https://sizu.me/yoichi22/posts/xn5w3szz3kkh)
 * 2024.06.09 [質問と背景とリンク](https://sizu.me/yoichi22/posts/zr9zaa2nena5)
