@@ -16,6 +16,7 @@
 
 ### 2024
 
+* 2024.11.04 [相手の力を目一杯借りる問い](https://sizu.me/yoichi22/posts/co341bmaex5v)
 * 2024.10.13 [Zenn:Keyballの操作性をmacOSとWindowsで揃える](https://zenn.dev/yoichi/articles/qmk-swap-keys-by-os)
 * 2024.10.06 [Zenn:QMKのTap Hold設定したキーでTap対象を長押しする](https://zenn.dev/yoichi/articles/qmk-quick-tap-term)
 * 2024.09.23 [Blog:Keyball61とKeyball44を組んで学んだこと(HW編)](https://yoichi22.hatenablog.com/entry/2024/09/23/162958)
