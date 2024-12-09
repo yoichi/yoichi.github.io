@@ -16,6 +16,7 @@
 
 ### 2024
 
+* 2024.12.09 [Zenn:EmacsがC-xC-cで終了しないようにする](https://zenn.dev/yoichi/articles/dont-kill-emacs-on-cxcc)
 * 2024.12.03 [Zenn:Keyball44のマウスボタン配置を最適化する方法](https://zenn.dev/yoichi/articles/keyball-and-mouse-button)
 * 2024.11.04 [相手の力を目一杯借りる問い](https://sizu.me/yoichi22/posts/co341bmaex5v)
 * 2024.10.13 [Zenn:Keyballの操作性をmacOSとWindowsで揃える](https://zenn.dev/yoichi/articles/qmk-swap-keys-by-os)
