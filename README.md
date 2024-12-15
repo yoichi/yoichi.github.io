@@ -16,6 +16,8 @@
 
 ### 2024
 
+* 2024.12.14 [Zenn:僕のKeyball44のキーマップを紹介します](https://zenn.dev/yoichi/articles/my-keyball44-keymap)
+* 2024.12.14 [Zenn:ANSI配列とJIS配列のミスマッチを生き延びるためのキー割り当て](https://zenn.dev/yoichi/articles/keymap-that-allow-recovery-from-layout-mismatch)
 * 2024.12.09 [Zenn:EmacsがC-xC-cで終了しないようにする](https://zenn.dev/yoichi/articles/dont-kill-emacs-on-cxcc)
 * 2024.12.03 [Zenn:Keyball44のマウスボタン配置を最適化する方法](https://zenn.dev/yoichi/articles/keyball-and-mouse-button)
 * 2024.11.04 [相手の力を目一杯借りる問い](https://sizu.me/yoichi22/posts/co341bmaex5v)
