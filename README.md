@@ -16,6 +16,7 @@
 
 ### 2024
 
+* 2024.12.31 [Blog:今年行ったところ(2024)](https://yoichi22.hatenablog.com/entry/2024/12/31/092107)
 * 2024.12.14 [Zenn:僕のKeyball44のキーマップを紹介します](https://zenn.dev/yoichi/articles/my-keyball44-keymap)
 * 2024.12.14 [Zenn:ANSI配列とJIS配列のミスマッチを生き延びるためのキー割り当て](https://zenn.dev/yoichi/articles/keymap-that-allow-recovery-from-layout-mismatch)
 * 2024.12.09 [Zenn:EmacsがC-xC-cで終了しないようにする](https://zenn.dev/yoichi/articles/dont-kill-emacs-on-cxcc)
