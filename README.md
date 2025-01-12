@@ -14,6 +14,10 @@
 
 ## Articles
 
+### 2025
+
+* 2025.01.12 [「それ前にも言いましたよ」を封じた](https://sizu.me/yoichi22/posts/h54r8xa4se8u)
+
 ### 2024
 
 * 2024.12.31 [Blog:今年行ったところ(2024)](https://yoichi22.hatenablog.com/entry/2024/12/31/092107)
