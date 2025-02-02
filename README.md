@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.02.02 [専門性の距離、コミュニケーションのすれ違い方](https://sizu.me/yoichi22/posts/1dkkm9ak90b6)
 * 2025.01.12 [「それ前にも言いましたよ」を封じた](https://sizu.me/yoichi22/posts/h54r8xa4se8u)
 
 ### 2024
