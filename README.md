@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.02.24 [Zenn:cocot46plusを数日使ってみて](https://zenn.dev/yoichi/articles/cocot46plus-first-impression)
 * 2025.02.15 [同じようなこと、何度でも聞いていい](https://sizu.me/yoichi22/posts/e715ufc4tnus)
 * 2025.02.02 [専門性の距離、コミュニケーションのすれ違い方](https://sizu.me/yoichi22/posts/1dkkm9ak90b6)
 * 2025.01.12 [「それ前にも言いましたよ」を封じた](https://sizu.me/yoichi22/posts/h54r8xa4se8u)
