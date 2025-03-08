@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.03.02 [Blog:「何回説明しても伝わらない」はなぜ起こるのか？](https://yoichi22.hatenablog.com/entry/2025/03/02/112045)
 * 2025.03.01 [Zenn:cocot46plusのロータリーエンコーダーへのキーコード割り当て](https://zenn.dev/yoichi/articles/cocot46plus-customize-encoder-map)
 * 2025.02.24 [関係性の構築ができるとどういう状態になるか](https://sizu.me/yoichi22/posts/h6i8z05dm7hw)
 * 2025.02.24 [Zenn:cocot46plusを数日使ってみて](https://zenn.dev/yoichi/articles/cocot46plus-first-impression)
