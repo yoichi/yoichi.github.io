@@ -16,6 +16,8 @@
 
 ### 2025
 
+* 2025.04.11 [Zenn:Keyballを縦に回して横スクロールする](https://zenn.dev/yoichi/articles/keyball-horizontal-scroll-by-vertical-motion)
+* 2025.04.06 [Zenn:ロータリーエンコーダーのキー割り当ての3つの方法](https://zenn.dev/yoichi/articles/qmk-ways-to-customize-encoder-map)
 * 2025.03.09 [Blog:そういうゲーム / ヨシタケシンスケ](https://yoichi22.hatenablog.com/entry/2025/03/09/080440)
 * 2025.03.02 [Blog:「何回説明しても伝わらない」はなぜ起こるのか？ / 今井むつみ](https://yoichi22.hatenablog.com/entry/2025/03/02/112045)
 * 2025.03.01 [Zenn:cocot46plusのロータリーエンコーダーへのキーコード割り当て](https://zenn.dev/yoichi/articles/cocot46plus-customize-encoder-map)
