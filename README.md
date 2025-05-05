@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.05.05 [Zenn:Keyball61のマウスポインタのジャンプを回避した](https://zenn.dev/yoichi/articles/keyball61-prevent-unexpected-pointer-jump)
 * 2025.04.21 [Zenn:cocot46plusの推しポイント](https://zenn.dev/yoichi/articles/cocot46plus-recommended-points)
 * 2025.04.11 [Zenn:Keyballを縦に回して横スクロールする](https://zenn.dev/yoichi/articles/keyball-horizontal-scroll-by-vertical-motion)
 * 2025.04.06 [Zenn:ロータリーエンコーダーのキー割り当ての3つの方法](https://zenn.dev/yoichi/articles/qmk-ways-to-customize-encoder-map)
