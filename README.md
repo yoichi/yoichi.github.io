@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.07.05 [Zenn:git fetchの取得制限を解除する](https://zenn.dev/yoichi/articles/unlimit-git-fetch)
 * 2025.05.18 [Zenn:Meishi2でダイオードの必要性を検証する](https://zenn.dev/yoichi/articles/verify-diode-necessity-with-meishi2)
 * 2025.05.05 [Zenn:Keyball61のマウスポインタのジャンプを回避した](https://zenn.dev/yoichi/articles/keyball61-prevent-unexpected-pointer-jump)
 * 2025.04.21 [Zenn:cocot46plusの推しポイント](https://zenn.dev/yoichi/articles/cocot46plus-recommended-points)
