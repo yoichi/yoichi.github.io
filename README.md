@@ -16,6 +16,8 @@
 
 ### 2025
 
+* 2025.08.02 [Zenn:16bitキーコードで LT(layer, kc) したかった](https://zenn.dev/yoichi/articles/qmk-lt-with-kc16)
+* 2025.08.02 [Zenn:僕のKeyball44のキーマップのその後を紹介します](https://zenn.dev/yoichi/articles/my-keyball44-keymap-2)
 * 2025.07.13 [Zenn:git checkoutもgit switch/restoreも廃止されません](https://zenn.dev/yoichi/articles/git-checkout-switch-restore)
 * 2025.07.12 [Blog:「なぜ」と聞かない質問術 / 中田 豊一](https://yoichi22.hatenablog.com/entry/2025/07/12/071208)
 * 2025.07.05 [Zenn:git fetchの取得制限を解除する](https://zenn.dev/yoichi/articles/unlimit-git-fetch)
