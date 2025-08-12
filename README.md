@@ -16,6 +16,7 @@
 
 ### 2025
 
+* 2025.08.12 [Zenn:QMKで疑似USキーマップ](https://zenn.dev/yoichi/articles/qmk-pseudo-us-keymap)
 * 2025.08.09 [会議の進行を止めてもらうと嬉しい](https://sizu.me/yoichi22/posts/4i7n1v6eef3w)
 * 2025.08.02 [Zenn:16bitキーコードで LT(layer, kc) したかった](https://zenn.dev/yoichi/articles/qmk-lt-with-kc16)
 * 2025.08.02 [Zenn:僕のKeyball44のキーマップのその後を紹介します](https://zenn.dev/yoichi/articles/my-keyball44-keymap-2)
