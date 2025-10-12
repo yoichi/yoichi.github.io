@@ -7,6 +7,7 @@
 * [Bluesky](https://bsky.app/profile/yoichi22.bsky.social)
 * [Twitter](https://twitter.com/yoichi22)
 * [GitHub](https://github.com/yoichi)
+* [sizu.me](https://sizu.me/yoichi22)
 * [Blog](https://yoichi22.hatenablog.com)
 * [Zenn](https://zenn.dev/yoichi)
 * [Qiita](https://qiita.com/yoichi22)
