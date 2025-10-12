@@ -16,6 +16,8 @@
 
 ### 2025
 
+* 2025.10.12 [中身をオープンにできなくても存在を見せておくこと](https://sizu.me/yoichi22/posts/9ctikkih0ad6)
+* 2025.10.05 [理想とのギャップ、ふたたび言葉にしてもいい](https://sizu.me/yoichi22/posts/b1521fswrhmx)
 * 2025.08.24 [話のタイプの認識合わせ](https://sizu.me/yoichi22/posts/3he3d3188wrc)
 * 2025.08.12 [Zenn:QMKで疑似USキーマップ](https://zenn.dev/yoichi/articles/qmk-pseudo-us-keymap)
 * 2025.08.09 [会議の進行を止めてもらうと嬉しい](https://sizu.me/yoichi22/posts/4i7n1v6eef3w)
