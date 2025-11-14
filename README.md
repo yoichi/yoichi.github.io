@@ -17,6 +17,7 @@
 
 ### 2025
 
+* 2025.10.20 [Blog:「マンガでカンタン！ファシリテーションは7日間でわかります。」を読んだ](https://yoichi22.hatenablog.com/entry/2025/10/20/192018)
 * 2025.10.12 [sizu.me:中身をオープンにできなくても存在を見せておくこと](https://sizu.me/yoichi22/posts/9ctikkih0ad6)
 * 2025.10.05 [sizu.me:理想とのギャップ、ふたたび言葉にしてもいい](https://sizu.me/yoichi22/posts/b1521fswrhmx)
 * 2025.08.24 [sizu.me:話のタイプの認識合わせ](https://sizu.me/yoichi22/posts/3he3d3188wrc)
