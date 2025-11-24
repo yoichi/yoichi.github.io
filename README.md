@@ -17,6 +17,7 @@
 
 ### 2025
 
+* 2025.11.24 [Zenn:git の dangling object のつくりかた](https://zenn.dev/yoichi/articles/create-git-dangling-objects)
 * 2025.11.20 [sizu.me:率直なコミュニケーションの難しさ](https://sizu.me/yoichi22/posts/uhmomzzu6dtm)
 * 2025.10.20 [Blog:「マンガでカンタン！ファシリテーションは7日間でわかります。」を読んだ](https://yoichi22.hatenablog.com/entry/2025/10/20/192018)
 * 2025.10.12 [sizu.me:中身をオープンにできなくても存在を見せておくこと](https://sizu.me/yoichi22/posts/9ctikkih0ad6)
