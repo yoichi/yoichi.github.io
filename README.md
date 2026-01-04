@@ -15,6 +15,10 @@
 
 ## Articles
 
+### 2026
+
+* 2026.01.05 [Blog:2025年のふりかえり](https://yoichi22.hatenablog.com/entry/2026/01/05/002514)
+
 ### 2025
 
 * 2025.11.24 [Zenn:git の dangling object のつくりかた](https://zenn.dev/yoichi/articles/create-git-dangling-objects)
