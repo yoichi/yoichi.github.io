@@ -17,6 +17,7 @@
 
 ### 2026
 
+* 2026.01.05 [Blog:2025年にいったところ](https://yoichi22.hatenablog.com/entry/2026/01/05/202913)
 * 2026.01.05 [Blog:2025年のふりかえり](https://yoichi22.hatenablog.com/entry/2026/01/05/002514)
 
 ### 2025
