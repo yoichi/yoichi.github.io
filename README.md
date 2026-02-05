@@ -17,6 +17,7 @@
 
 ### 2026
 
+* 2026.02.02 [Zenn:cocot38mini v2ビルドログ](https://zenn.dev/yoichi/articles/cocot38mini-v2-build-log)
 * 2026.01.05 [Blog:2025年にいったところ](https://yoichi22.hatenablog.com/entry/2026/01/05/202913)
 * 2026.01.05 [Blog:2025年のふりかえり](https://yoichi22.hatenablog.com/entry/2026/01/05/002514)
 
