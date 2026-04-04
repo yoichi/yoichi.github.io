@@ -17,6 +17,7 @@
 
 ### 2026
 
+* 2026.04.05 [Blog:テクニカルライターのお仕事小説「咲良は上手に説明したい！」を読んだ](https://yoichi22.hatenablog.com/entry/2026/04/05/075211)
 * 2026.02.11 [Zenn:cocot38miniのLEDでトラックボール設定を可視化する](https://zenn.dev/yoichi/articles/cocot38mini-represent-config-by-led)
 * 2026.02.02 [Zenn:cocot38mini v2ビルドログ](https://zenn.dev/yoichi/articles/cocot38mini-v2-build-log)
 * 2026.01.05 [Blog:2025年にいったところ](https://yoichi22.hatenablog.com/entry/2026/01/05/202913)
