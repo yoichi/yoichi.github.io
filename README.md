@@ -17,6 +17,8 @@
 
 ### 2026
 
+* 2026.05.04 [Zenn:QMKでマウスカーソルを定位置に持ってくる](https://zenn.dev/yoichi/articles/qmk-set-absolute-position-of-mouse-cursor)
+* 2026.05.03 [Blog:KEEBHOLIC NAGOYA VOL.01に行ってきました](https://yoichi22.hatenablog.com/entry/2026/05/03/201432)
 * 2026.04.28 [Blog:「はじめての短歌」で知る盲点](https://yoichi22.hatenablog.com/entry/2026/04/28/224906)
 * 2026.04.26 [sizu.me:枠組みをちょっとずつ変えていくこと](https://sizu.me/yoichi22/posts/v0b6nw01axn7)
 * 2026.04.05 [Blog:テクニカルライターのお仕事小説「咲良は上手に説明したい！」を読んだ](https://yoichi22.hatenablog.com/entry/2026/04/05/075211)
