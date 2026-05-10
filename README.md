@@ -17,6 +17,7 @@
 
 ### 2026
 
+* 2026.05.10 [sizu.me:目に入っているのに見過ごしていること](https://sizu.me/yoichi22/posts/9tum7s6kwiz1)
 * 2026.05.07 [Blog:蓋を見に大津へ](https://yoichi22.hatenablog.com/entry/2026/05/07/071716)
 * 2026.05.04 [Zenn:QMKでマウスカーソルを定位置に持ってくる](https://zenn.dev/yoichi/articles/qmk-set-absolute-position-of-mouse-cursor)
 * 2026.05.03 [Blog:KEEBHOLIC NAGOYA VOL.01に行ってきました](https://yoichi22.hatenablog.com/entry/2026/05/03/201432)
