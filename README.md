@@ -18,7 +18,7 @@
 ### 2026
 
 * 2026.08.30 [Zenn:git worktree add はどう推測しブランチを作るか](https://zenn.dev/yoichi/articles/git-worktree-add-dwim)
-* 2026.08.02 [Zenn:git checkout <branch> はなぜブランチを作ってくれるのか](https://zenn.dev/yoichi/articles/git-checkout-dwim)
+* 2026.08.02 [Zenn:git checkout \<branch\> はなぜブランチを作ってくれるのか](https://zenn.dev/yoichi/articles/git-checkout-dwim)
 * 2026.05.25 [sizu.me:質問に答える前に聞き返すこと](https://sizu.me/yoichi22/posts/ubxwxrb1o5f0)
 * 2026.05.10 [sizu.me:目に入っているのに見過ごしていること](https://sizu.me/yoichi22/posts/9tum7s6kwiz1)
 * 2026.05.07 [Blog:蓋を見に大津へ](https://yoichi22.hatenablog.com/entry/2026/05/07/071716)
