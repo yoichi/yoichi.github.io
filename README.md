@@ -17,6 +17,7 @@
 
 ### 2026
 
+* 2026.09.26 [Zenn:Gitのorphanブランチのつくりかた](https://zenn.dev/yoichi/articles/git-create-orphan-branch)
 * 2026.09.06 [Zenn:git worktreeを移動してもリンクが切れないようにする](https://zenn.dev/yoichi/articles/git-position-independent-worktree-links)
 * 2026.08.30 [Zenn:git worktree add はどう推測しブランチを作るか](https://zenn.dev/yoichi/articles/git-worktree-add-dwim)
 * 2026.08.02 [Zenn:git checkout \<branch\> はなぜブランチを作ってくれるのか](https://zenn.dev/yoichi/articles/git-checkout-dwim)
